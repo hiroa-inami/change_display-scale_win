@@ -1,7 +1,7 @@
 # What is this
 Powershell scripts which increase/decrease display scale
 # How to use
-1. Install the module on your Powershell
+1. Install required module on your Powershell
 ```
 Install-Module DisplayConfig
 ```
