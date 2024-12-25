@@ -19,3 +19,7 @@ increase_display-scale_run_silently.vbs
 ```
 These scripts execute the command without a window popup.  
 pwsh.exe is used inside, change it if you use powershell.exe.
+
+# Thank you
+MartinGC94 for creating the module. It's helpful.  
+https://github.com/MartinGC94/DisplayConfig
