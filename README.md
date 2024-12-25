@@ -11,3 +11,11 @@ powershell.exe .\decrease_display-scale.ps1
 # or, if you have Powershell 7  
 pwsh.exe .\decrease_display-scale.ps1
 ```
+
+# No popup execution
+```
+decrease_display-scale_run_silently.vbs
+increase_display-scale_run_silently.vbs
+```
+These scripts execute the command without a window popup.  
+pwsh.exe is used inside, change it if you use powershell.exe.
